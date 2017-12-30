@@ -6,12 +6,8 @@
   "topics": [
     {
       "title": "Hello World!",
-      "githublink": "",
+      "githublink": "https://raw.githubusercontent.com/markusegger/test/master/Hello%20World.md",
       "topics": [
-        {
-          "title": "Installing the Framework",
-          "githublink": ""
-        }
       ]
     }
   ]
