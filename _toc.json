@@ -1,0 +1,18 @@
+﻿{
+  "title": "Test Docs",
+  "owner": "Markus Egger",
+  "language": "en-US",
+  "version": "1.0",
+  "topics": [
+    {
+      "title": "Hello World!",
+      "githublink": "",
+      "topics": [
+        {
+          "title": "Installing the Framework",
+          "githublink": ""
+        }
+      ]
+    }
+  ]
+}
